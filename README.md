@@ -13,5 +13,7 @@ PRED_GACELAS > Has the Python Scripts used to determine if a startup would be co
 
 ANALISIS_DATOS > A PowerBI to analyze the data
 
+ANALISIS_NUEVOS_DATOS > A PowerBI to analyze the predicted data. 
+
 
 
